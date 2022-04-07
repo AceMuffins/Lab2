@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ace Muffins/CLionProjects/ASD_Lab2/LinkedList.cpp
+LinkedList.h
+C:/Users/Ace Muffins/CLionProjects/ASD_Lab2/LinkedList.h
+iostream
+-
+cstdlib
+-
+
+C:/Users/Ace Muffins/CLionProjects/ASD_Lab2/LinkedList.h
+
+C:/Users/Ace Muffins/CLionProjects/ASD_Lab2/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+cmath
+-
+LinkedList.h
+C:/Users/Ace Muffins/CLionProjects/ASD_Lab2/LinkedList.h
+unordered_map
+-
+
